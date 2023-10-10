@@ -1,4 +1,4 @@
-# Show Earthquake
+# CenterQuakeLocator 
 
 This web application aims to provide an updated reference table for viewing earthquakes in a specific location with a specific radius, anytime and anywhere.
 
